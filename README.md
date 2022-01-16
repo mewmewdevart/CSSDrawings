@@ -18,4 +18,11 @@
 <h4 align="center"><a href="https://github.com/mewmewdevart/CSSDrawings/tree/main/01%20-%20CuteEgg" target="_blank">See the code</a></h4>
 
 
+<h4 align="center"> 02 : Bulb </h4>
+
+[![Github](https://github.com/mewmewdevart/CSSDrawings/blob/5bdef6146137d04d82b69f38d0d26ddbcbbfab47/02%20-%20Bulb/bulb.gif)](https://github.com/mewmewdevart/CSSDrawings/tree/main/02%20-%20Bulb)
+
+<h4 align="center"><a href="https://github.com/mewmewdevart/CSSDrawings/tree/main/02%20-%20Bulb" target="_blank">See the code</a></h4>
+
+
 <p align="center"> Developed with love 💜 by Larissa Cristina Benedito (Mewmew). </p>
